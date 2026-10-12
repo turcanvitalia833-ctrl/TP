@@ -1,0 +1,9 @@
+{
+  "strat": [
+    "base64",
+    "hex",
+    "url"
+  ],
+  "rezultat": "FLAG{straturi_demo}",
+  "hex": "464c41477b73747261747572695f64656d6f7d"
+}

@@ -1,0 +1,91 @@
+{
+  "strat": "xor",
+  "candidati": [
+    {
+      "cheie": 42,
+      "rezultat": "The secret message is FLAG{xor_demo}.",
+      "scor": 644
+    },
+    {
+      "cheie": 43,
+      "rezultat": "Uid!rdbsdu!ldrr`fd!hr!GM@Fzyns^edln|/",
+      "scor": 401
+    },
+    {
+      "cheie": 44,
+      "rezultat": "Rnc&ucetcr&kcuugac&ou&@JGA}~itYbcki{(",
+      "scor": 390
+    },
+    {
+      "cheie": 32,
+      "rezultat": "^bo*yoixo~*goyykmo*cy*LFKMqrexUnogew$",
+      "scor": 386
+    },
+    {
+      "cheie": 59,
+      "rezultat": "Eyt1btrcte1|tbbpvt1xb1W]PVji~cNut|~l?",
+      "scor": 361
+    },
+    {
+      "cheie": 35,
+      "rezultat": "]al)zlj{l})dlzzhnl)`z)OEHNrqf{Vmldft'",
+      "scor": 332
+    },
+    {
+      "cheie": 63,
+      "rezultat": "A}p5fpvgpa5xpfftrp5|f5SYTRnmzgJqpxzh;",
+      "scor": 317
+    },
+    {
+      "cheie": 34,
+      "rezultat": "\\`m({mkzm|(em{{iom(a{(NDIOspgzWlmegu&",
+      "scor": 312
+    },
+    {
+      "cheie": 55,
+      "rezultat": "Iux=nx~oxi=pxnn|zx=tn=[Q\\ZferoByxpr`3",
+      "scor": 290
+    },
+    {
+      "cheie": 36,
+      "rezultat": "Zfk.}km|kz.ck}}oik.g}.HBOIuva|Qjkcas ",
+      "scor": 282
+    },
+    {
+      "cheie": 41,
+      "rezultat": "Wkf#pf`qfw#nfppbdf#jp#EOBDx{lq\\gfnl~-",
+      "scor": 279
+    },
+    {
+      "cheie": 57,
+      "rezultat": "G{v3`vpavg3~v``rtv3z`3U_RThk|aLwv~|n=",
+      "scor": 216
+    },
+    {
+      "cheie": 62,
+      "rezultat": "@|q4gqwfq`4yqggusq4}g4RXUSol{fKpqy{i:",
+      "scor": 207
+    },
+    {
+      "cheie": 47,
+      "rezultat": "Qm`%v`fw`q%h`vvdb`%lv%CIDB~}jwZa`hjx+",
+      "scor": 193
+    },
+    {
+      "cheie": 53,
+      "rezultat": "Kwz?lz|mzk?rzll~xz?vl?YS^Xdgpm@{zrpb1",
+      "scor": 193
+    },
+    {
+      "cheie": 37,
+      "rezultat": "[gj/|jl}j{/bj||nhj/f|/ICNHtw`}Pkjb`r!",
+      "scor": 181
+    },
+    {
+      "cheie": 51,
+      "rezultat": "Mq|9j|zk|m9t|jjx~|9pj9_UX^bavkF}|tvd7",
+      "scor": 135
+    }
+  ],
+  "observatie": "Scorul este euristic; verifica textul si cheia."
+}
